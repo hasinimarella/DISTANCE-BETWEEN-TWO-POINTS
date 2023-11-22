@@ -27,7 +27,6 @@ print("{:.2f}".format(dist))
 
 
 ### OUTPUT:
-![OUTPUT](<./distance between points-2.png>)
-
+![OUTPUT](./distance%20between%20points.png)
 ### RESULT:
 Thus the program created successfully
